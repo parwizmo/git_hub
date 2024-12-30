@@ -4,5 +4,7 @@ class Add {
         for (int i = 0; i < 12; i++) {
             System.out.println(12);
         }
+        int i = 12;
+        i += 1;
     }
 }
