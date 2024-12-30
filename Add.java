@@ -10,6 +10,8 @@ class Add {
         for (int i = 0; i < 1; i++) {
             System.out.println(123);
         }
-
+        for (int i = 0; i < 12; i++) {
+            System.out.println(11);
+        }
     }
 }
